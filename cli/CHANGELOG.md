@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.10.4
+
+### Patch Changes
+
+- [#1352](https://github.com/t3-oss/create-t3-app/pull/1352) [`c48b38f`](https://github.com/t3-oss/create-t3-app/commit/c48b38f522b81097e2f0e883ede053dbac620c12) Thanks [@Tungetyt](https://github.com/Tungetyt)! - refactor: make destructuring consistent
+
 ## 7.10.3
 
 ### Patch Changes
